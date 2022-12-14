@@ -12,3 +12,5 @@
   - Python project
   - Odoo project (copyleft must to be)
 - 📫 How to reach me : <iziwas@gmail.com>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iziwas)](https://git.io/streak-stats)
